@@ -1,0 +1,15 @@
+[
+ {
+  "directory": "/home/runner/glfw",
+  "arguments": [
+   "g++",
+   "-c",
+   "src/main.cpp",
+   "-o",
+   "obj/main.o",
+   "-Iinclude",
+   "-Llib"
+  ],
+  "file": "src/main.cpp"
+ }
+]
